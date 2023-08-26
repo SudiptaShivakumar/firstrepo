@@ -1,2 +1,2 @@
 # firstrepo
-My first git-hub repository.
+My first git repository.
